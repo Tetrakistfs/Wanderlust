@@ -1,3 +1,3 @@
 # Wanderlust
 
-https://tetrakistfs.github.io/Wanderlust/
+tetrakistfs.github.io/Wanderlust/
