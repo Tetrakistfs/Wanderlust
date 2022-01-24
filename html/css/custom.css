@@ -1,0 +1,51 @@
+/* your styles go here */
+html {
+    box-sizing: border-box;
+  }
+  
+  small {
+    font-size: 80% !important;
+  
+  }  
+  
+  .logo {
+    height: 2.5rem;
+  }
+  
+  .my-class {
+    width: 100%;
+  }
+  
+  
+  .card {
+    margin: 0 auto;
+  }
+  
+  .btn-primary {
+    width: 100%;
+  }
+  
+  .spacing {
+    list-style: " ";
+  }
+  
+  .rotate {
+    white-space: nowrap;
+    width: 0;
+  }
+  
+  .rotate p{
+      transform: translate(2rem, 70px) rotate(-90deg);
+  }
+
+  .swiper-slide img {
+      object-fit: contain !important;
+  }
+
+  .vertical {
+      background-color: rgba(11, 31, 212, 0.8);
+  }
+
+  .fa {
+      font-size: 3rem;
+  }
